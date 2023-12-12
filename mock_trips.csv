@@ -1,0 +1,1006 @@
+id,origin,destination,startDate,endDate,isCanceled
+1,Czech Republic,Poland,10/06/2023,02/10/2023,false
+2,Philippines,Indonesia,08/20/2023,02/02/2023,true
+3,Azerbaijan,Ukraine,10/12/2023,11/14/2023,true
+4,Honduras,Indonesia,08/08/2023,07/07/2023,true
+5,Russia,United States,12/05/2022,05/01/2023,true
+6,Gambia,Czech Republic,11/16/2023,01/11/2023,true
+7,Poland,Russia,04/08/2023,02/12/2023,false
+8,Belarus,Poland,10/07/2023,08/01/2023,false
+9,China,Czech Republic,03/10/2023,01/06/2023,false
+10,Russia,China,10/27/2023,04/07/2023,true
+11,Russia,Palestinian Territory,02/18/2023,09/09/2023,true
+12,China,Japan,07/15/2023,02/16/2023,false
+13,Japan,Brazil,04/25/2023,04/12/2023,true
+14,South Africa,Kenya,10/02/2023,10/17/2023,false
+15,Western Sahara,Sweden,12/14/2022,02/15/2023,false
+16,China,Brazil,07/25/2023,08/02/2023,false
+17,China,Poland,06/11/2023,06/30/2023,true
+18,Czech Republic,Japan,12/27/2022,07/05/2023,true
+19,Philippines,United States,08/29/2023,07/29/2023,false
+20,Brazil,Philippines,12/05/2022,12/11/2022,false
+21,Philippines,Russia,05/21/2023,12/23/2022,true
+22,Brazil,Indonesia,07/03/2023,09/13/2023,false
+23,Mexico,China,12/29/2022,08/03/2023,false
+24,Russia,United States,07/07/2023,08/20/2023,true
+25,France,China,02/16/2023,07/26/2023,false
+26,France,China,06/29/2023,06/27/2023,false
+27,Czech Republic,Russia,04/14/2023,07/09/2023,true
+28,Japan,China,07/11/2023,03/14/2023,false
+29,Poland,Indonesia,05/21/2023,10/28/2023,true
+30,Brazil,Thailand,11/07/2023,04/07/2023,true
+31,Comoros,China,06/25/2023,09/28/2023,true
+32,Tanzania,Turkmenistan,10/24/2023,03/29/2023,false
+33,Russia,Russia,02/08/2023,09/28/2023,true
+34,Ukraine,Japan,08/27/2023,10/14/2023,true
+35,Ukraine,Brazil,06/20/2023,06/01/2023,false
+36,Palau,Poland,11/21/2022,12/16/2022,false
+37,Philippines,Philippines,10/09/2023,07/08/2023,false
+38,Philippines,Macedonia,03/31/2023,06/26/2023,false
+39,Indonesia,Japan,03/25/2023,05/05/2023,false
+40,Czech Republic,Poland,11/17/2023,12/05/2022,false
+41,Luxembourg,Poland,11/19/2023,02/22/2023,true
+42,Philippines,Peru,06/10/2023,07/26/2023,false
+43,Serbia,China,09/23/2023,11/18/2023,false
+44,Tanzania,Indonesia,01/07/2023,10/10/2023,true
+45,Jordan,Malaysia,11/23/2022,09/24/2023,false
+46,Poland,Argentina,05/02/2023,11/26/2022,false
+47,Brazil,Nepal,07/08/2023,12/24/2022,true
+48,Mexico,Belarus,10/11/2023,06/27/2023,false
+49,China,Indonesia,02/14/2023,09/24/2023,false
+50,Russia,Norway,02/15/2023,02/03/2023,false
+51,Indonesia,China,01/30/2023,07/31/2023,true
+52,China,Honduras,05/22/2023,11/12/2023,true
+53,Indonesia,Papua New Guinea,09/21/2023,12/11/2022,true
+54,Iran,Indonesia,06/17/2023,07/13/2023,true
+55,Brazil,China,01/22/2023,06/08/2023,true
+56,Sweden,Turkmenistan,06/17/2023,05/18/2023,false
+57,Ukraine,Czech Republic,08/12/2023,04/27/2023,true
+58,Taiwan,Jamaica,11/13/2023,10/02/2023,true
+59,Russia,Sweden,05/06/2023,07/12/2023,false
+60,Canada,Philippines,07/21/2023,06/11/2023,true
+61,Belarus,Indonesia,03/09/2023,01/26/2023,true
+62,Indonesia,Poland,05/12/2023,12/02/2022,false
+63,Indonesia,Japan,10/02/2023,05/15/2023,false
+64,United States,China,07/23/2023,12/02/2022,false
+65,China,China,10/29/2023,08/25/2023,true
+66,China,Brazil,12/21/2022,05/16/2023,false
+67,China,Albania,05/25/2023,10/28/2023,false
+68,Palestinian Territory,China,03/12/2023,09/03/2023,true
+69,United States,China,10/27/2023,10/09/2023,true
+70,Monaco,Mongolia,10/16/2023,02/14/2023,true
+71,Indonesia,Ethiopia,02/20/2023,06/20/2023,false
+72,Russia,China,11/20/2022,12/31/2022,true
+73,Philippines,Ukraine,12/26/2022,07/21/2023,true
+74,China,Venezuela,05/23/2023,09/22/2023,true
+75,Uganda,China,08/06/2023,07/11/2023,true
+76,Cape Verde,United States,11/01/2023,04/28/2023,false
+77,China,Poland,06/25/2023,09/08/2023,false
+78,Ukraine,Indonesia,04/22/2023,07/05/2023,false
+79,Kazakhstan,Japan,11/27/2022,02/10/2023,false
+80,Russia,Poland,01/05/2023,01/19/2023,true
+81,Ukraine,Colombia,08/10/2023,09/29/2023,false
+82,China,Pakistan,04/23/2023,01/24/2023,true
+83,Ghana,Portugal,08/11/2023,04/11/2023,false
+84,Portugal,Colombia,08/28/2023,03/24/2023,false
+85,China,Russia,12/18/2022,08/02/2023,true
+86,Sweden,Nigeria,03/27/2023,05/16/2023,true
+87,Nigeria,Senegal,03/17/2023,12/06/2022,true
+88,Mexico,Japan,01/24/2023,07/16/2023,false
+89,Argentina,Argentina,10/31/2023,08/24/2023,true
+90,Russia,Portugal,09/17/2023,09/10/2023,false
+91,Russia,China,05/19/2023,09/10/2023,true
+92,Nigeria,China,05/01/2023,01/16/2023,true
+93,Belarus,Honduras,05/29/2023,12/28/2022,false
+94,Philippines,Colombia,06/11/2023,10/15/2023,true
+95,China,Brazil,11/16/2023,04/07/2023,true
+96,Greece,Andorra,06/12/2023,01/24/2023,true
+97,Philippines,Vietnam,11/03/2023,06/29/2023,false
+98,Brazil,Sweden,02/24/2023,11/12/2023,false
+99,China,Philippines,01/23/2023,02/25/2023,true
+100,United States,Peru,07/12/2023,01/25/2023,true
+101,Iraq,Macedonia,07/17/2023,04/11/2023,true
+102,Indonesia,Venezuela,11/08/2023,06/05/2023,true
+103,Finland,Cuba,08/21/2023,11/04/2023,false
+104,Portugal,Ukraine,04/21/2023,10/15/2023,false
+105,Armenia,Jordan,05/11/2023,01/26/2023,true
+106,Thailand,Indonesia,07/10/2023,08/11/2023,true
+107,China,Kazakhstan,12/18/2022,08/14/2023,false
+108,Colombia,France,04/27/2023,11/14/2023,false
+109,United States,China,01/03/2023,09/01/2023,false
+110,Mexico,Curacao,07/07/2023,10/17/2023,true
+111,Syria,Peru,09/11/2023,04/23/2023,false
+112,Syria,Poland,05/10/2023,05/29/2023,false
+113,China,Sweden,12/25/2022,10/07/2023,false
+114,Nigeria,France,05/30/2023,11/17/2023,false
+115,China,Kazakhstan,10/13/2023,04/29/2023,false
+116,China,China,09/23/2023,06/14/2023,false
+117,Laos,Poland,05/01/2023,07/08/2023,false
+118,Portugal,Albania,10/07/2023,02/26/2023,true
+119,Vietnam,Ukraine,02/01/2023,01/12/2023,false
+120,China,Peru,04/16/2023,08/30/2023,true
+121,Poland,Czech Republic,09/15/2023,07/29/2023,false
+122,Yemen,China,09/03/2023,08/23/2023,false
+123,Indonesia,Indonesia,06/12/2023,03/19/2023,true
+124,Brazil,China,05/28/2023,03/03/2023,true
+125,Philippines,China,08/24/2023,02/08/2023,true
+126,China,Argentina,02/08/2023,08/03/2023,true
+127,Indonesia,Ukraine,01/20/2023,04/02/2023,false
+128,Indonesia,Indonesia,07/12/2023,05/05/2023,true
+129,Indonesia,Philippines,08/11/2023,12/26/2022,false
+130,Sweden,Belarus,02/16/2023,09/03/2023,true
+131,China,Tanzania,04/12/2023,03/18/2023,false
+132,France,Azerbaijan,05/12/2023,02/22/2023,true
+133,France,Philippines,02/25/2023,03/16/2023,false
+134,Indonesia,Ukraine,11/03/2023,12/18/2022,true
+135,China,Indonesia,03/02/2023,03/04/2023,false
+136,China,China,03/06/2023,09/17/2023,false
+137,Indonesia,Indonesia,02/27/2023,12/21/2022,true
+138,Poland,Sweden,10/17/2023,02/13/2023,false
+139,Sweden,Japan,06/20/2023,02/10/2023,true
+140,Indonesia,Poland,04/30/2023,10/04/2023,false
+141,Philippines,United States,04/05/2023,05/22/2023,false
+142,United States,China,10/31/2023,06/17/2023,false
+143,Indonesia,China,02/15/2023,08/07/2023,false
+144,Poland,Kazakhstan,12/01/2022,07/28/2023,false
+145,China,United States,04/26/2023,08/19/2023,true
+146,Norway,South Africa,09/23/2023,08/28/2023,true
+147,Egypt,Sweden,05/21/2023,04/03/2023,true
+148,France,China,02/19/2023,01/29/2023,true
+149,Philippines,China,05/20/2023,01/21/2023,false
+150,Netherlands,China,04/05/2023,11/11/2023,false
+151,Indonesia,Comoros,06/24/2023,11/05/2023,false
+152,China,Philippines,04/30/2023,08/26/2023,true
+153,Greece,Russia,02/14/2023,08/04/2023,false
+154,France,Portugal,01/24/2023,03/10/2023,true
+155,United States,China,06/19/2023,01/29/2023,true
+156,Russia,Sweden,05/15/2023,08/23/2023,false
+157,Philippines,Ethiopia,07/12/2023,08/21/2023,false
+158,China,Thailand,07/04/2023,10/27/2023,true
+159,Indonesia,China,07/09/2023,10/17/2023,false
+160,Philippines,Japan,01/22/2023,02/07/2023,false
+161,China,China,01/12/2023,11/25/2022,true
+162,United States,Greece,02/25/2023,07/09/2023,true
+163,Brazil,Russia,09/25/2023,12/18/2022,true
+164,Indonesia,Haiti,04/01/2023,07/03/2023,true
+165,China,China,07/04/2023,04/18/2023,true
+166,Poland,China,06/09/2023,07/16/2023,true
+167,Indonesia,Brazil,06/26/2023,09/26/2023,true
+168,Mexico,Indonesia,03/16/2023,12/09/2022,false
+169,Sweden,Bosnia and Herzegovina,02/20/2023,02/05/2023,true
+170,China,Trinidad and Tobago,10/19/2023,12/20/2022,false
+171,Indonesia,Indonesia,04/30/2023,01/30/2023,true
+172,Russia,Norway,10/20/2023,05/15/2023,false
+173,China,Honduras,11/29/2022,09/11/2023,true
+174,Philippines,China,07/17/2023,10/25/2023,false
+175,Moldova,Palestinian Territory,01/01/2023,09/09/2023,true
+176,Netherlands,Poland,02/05/2023,10/17/2023,true
+177,Ethiopia,Norway,09/23/2023,09/26/2023,true
+178,South Korea,China,07/06/2023,08/19/2023,true
+179,China,Indonesia,01/27/2023,05/04/2023,true
+180,Monaco,Chad,01/29/2023,09/02/2023,false
+181,Poland,Czech Republic,03/30/2023,02/04/2023,false
+182,France,Sweden,04/14/2023,10/07/2023,true
+183,United States,Poland,06/03/2023,08/01/2023,true
+184,Poland,Philippines,04/19/2023,02/17/2023,false
+185,China,Sweden,02/12/2023,01/15/2023,false
+186,China,Indonesia,10/31/2023,07/27/2023,false
+187,Thailand,Panama,04/11/2023,04/26/2023,false
+188,Colombia,Indonesia,05/05/2023,01/09/2023,true
+189,Estonia,Canada,01/01/2023,08/11/2023,true
+190,China,Japan,08/01/2023,12/03/2022,true
+191,United States,Tanzania,01/23/2023,11/04/2023,true
+192,China,China,08/26/2023,03/11/2023,false
+193,Colombia,Mexico,08/12/2023,10/09/2023,true
+194,Greece,Nepal,05/30/2023,11/25/2022,true
+195,Thailand,Ukraine,09/21/2023,06/27/2023,false
+196,Malaysia,Poland,05/13/2023,04/08/2023,false
+197,Poland,Brazil,09/21/2023,05/21/2023,false
+198,Nigeria,China,04/17/2023,12/09/2022,true
+199,Argentina,China,06/27/2023,07/02/2023,false
+200,China,Ecuador,04/30/2023,04/21/2023,false
+201,France,China,10/18/2023,03/17/2023,false
+202,Philippines,China,08/08/2023,05/19/2023,true
+203,Bulgaria,Ukraine,04/13/2023,07/14/2023,false
+204,Indonesia,Spain,03/28/2023,08/23/2023,true
+205,China,Japan,02/28/2023,12/18/2022,false
+206,Papua New Guinea,Croatia,07/02/2023,10/09/2023,false
+207,Denmark,China,04/28/2023,02/01/2023,true
+208,France,Ukraine,07/26/2023,12/12/2022,true
+209,United States,Russia,04/07/2023,01/23/2023,true
+210,Indonesia,China,07/30/2023,08/12/2023,false
+211,Indonesia,Iran,01/30/2023,11/04/2023,false
+212,Indonesia,China,04/07/2023,05/06/2023,true
+213,Poland,Mexico,09/10/2023,05/18/2023,true
+214,Brazil,Kyrgyzstan,11/10/2023,03/17/2023,true
+215,Uzbekistan,Russia,01/10/2023,02/20/2023,true
+216,Malaysia,France,03/20/2023,03/15/2023,true
+217,Ukraine,Philippines,11/18/2023,09/03/2023,true
+218,Russia,Bangladesh,11/24/2022,08/30/2023,false
+219,Indonesia,France,03/19/2023,02/17/2023,false
+220,Pakistan,Poland,08/07/2023,08/03/2023,true
+221,Indonesia,Norway,12/03/2022,01/14/2023,true
+222,Portugal,Japan,12/15/2022,03/31/2023,true
+223,Russia,China,02/11/2023,12/13/2022,false
+224,Nigeria,Germany,11/08/2023,04/19/2023,true
+225,China,China,01/23/2023,05/30/2023,false
+226,China,Russia,09/23/2023,05/17/2023,true
+227,New Zealand,China,08/26/2023,03/27/2023,true
+228,China,Poland,03/16/2023,03/12/2023,true
+229,Pakistan,Poland,08/07/2023,12/15/2022,false
+230,Poland,China,10/22/2023,11/11/2023,false
+231,Thailand,Nigeria,10/27/2023,04/04/2023,true
+232,Slovenia,Cuba,08/15/2023,04/30/2023,true
+233,Guatemala,Philippines,01/22/2023,12/16/2022,true
+234,United States,Indonesia,03/10/2023,03/05/2023,true
+235,Namibia,Ukraine,01/12/2023,02/18/2023,false
+236,Netherlands,Philippines,11/12/2023,08/06/2023,true
+237,China,Philippines,06/14/2023,07/12/2023,true
+238,China,South Korea,08/27/2023,12/14/2022,true
+239,France,Senegal,11/17/2023,05/11/2023,true
+240,Sri Lanka,Russia,03/02/2023,11/30/2022,true
+241,China,North Korea,04/06/2023,02/18/2023,true
+242,Russia,Brazil,04/24/2023,02/04/2023,false
+243,Afghanistan,China,10/21/2023,05/21/2023,true
+244,China,Brazil,04/15/2023,09/28/2023,true
+245,France,Brazil,01/09/2023,05/01/2023,false
+246,Croatia,Sweden,12/26/2022,11/07/2023,false
+247,Guatemala,Indonesia,03/24/2023,09/15/2023,true
+248,Poland,Vietnam,08/09/2023,06/11/2023,true
+249,Brazil,China,10/21/2023,12/16/2022,false
+250,Tanzania,China,06/02/2023,10/23/2023,true
+251,China,Malaysia,03/22/2023,01/25/2023,true
+252,Greece,United States,04/14/2023,08/24/2023,false
+253,China,Bulgaria,10/16/2023,12/24/2022,false
+254,United States,Poland,10/22/2023,06/23/2023,false
+255,Iran,China,12/16/2022,03/23/2023,true
+256,China,Indonesia,08/27/2023,06/23/2023,false
+257,China,Ukraine,11/05/2023,01/09/2023,true
+258,Portugal,Saudi Arabia,08/02/2023,06/02/2023,true
+259,Somalia,Indonesia,11/30/2022,12/19/2022,true
+260,Japan,Brazil,09/27/2023,05/21/2023,true
+261,Costa Rica,Israel,08/18/2023,11/01/2023,false
+262,Slovenia,Nepal,03/25/2023,06/03/2023,false
+263,Croatia,China,12/03/2022,10/23/2023,true
+264,Mongolia,Ukraine,08/26/2023,10/09/2023,true
+265,Macedonia,China,02/11/2023,06/15/2023,true
+266,Sweden,Macedonia,10/11/2023,05/31/2023,false
+267,Indonesia,Philippines,05/31/2023,09/17/2023,true
+268,Russia,Russia,11/11/2023,11/03/2023,false
+269,France,Japan,12/02/2022,08/17/2023,false
+270,Thailand,United States,04/11/2023,04/15/2023,false
+271,United States,Indonesia,01/27/2023,01/27/2023,true
+272,Sweden,Russia,08/15/2023,10/04/2023,false
+273,Afghanistan,Greece,07/02/2023,08/12/2023,false
+274,Ukraine,Tajikistan,11/25/2022,03/26/2023,true
+275,Cuba,Colombia,07/21/2023,06/17/2023,true
+276,Croatia,Ukraine,11/01/2023,02/01/2023,true
+277,Portugal,Croatia,07/11/2023,07/22/2023,true
+278,Indonesia,Argentina,06/22/2023,10/26/2023,false
+279,Indonesia,Zimbabwe,08/14/2023,10/25/2023,false
+280,Japan,China,12/20/2022,05/26/2023,false
+281,France,Gabon,12/10/2022,11/24/2022,true
+282,Thailand,Liberia,03/17/2023,02/02/2023,true
+283,China,China,01/13/2023,08/05/2023,false
+284,Philippines,Canada,11/08/2023,01/11/2023,true
+285,Indonesia,Jordan,10/07/2023,01/02/2023,false
+286,Philippines,Mauritius,01/02/2023,10/04/2023,false
+287,Croatia,China,04/07/2023,07/13/2023,false
+288,Portugal,Indonesia,11/07/2023,10/30/2023,true
+289,Russia,Venezuela,10/26/2023,01/15/2023,true
+290,China,Philippines,12/15/2022,07/24/2023,true
+291,Indonesia,Philippines,01/10/2023,11/21/2022,true
+292,South Africa,China,01/17/2023,04/18/2023,false
+293,Portugal,China,06/19/2023,11/10/2023,false
+294,Indonesia,Poland,07/23/2023,07/26/2023,true
+295,China,Afghanistan,02/17/2023,04/16/2023,true
+296,Czech Republic,China,02/05/2023,01/01/2023,false
+297,Panama,Peru,11/08/2023,09/05/2023,false
+298,Sweden,Indonesia,01/19/2023,05/16/2023,true
+299,Brazil,Sweden,12/14/2022,01/23/2023,false
+300,Philippines,British Virgin Islands,04/22/2023,07/10/2023,true
+301,Republic of the Congo,China,12/16/2022,08/31/2023,true
+302,Philippines,Albania,03/27/2023,02/07/2023,false
+303,China,China,08/06/2023,10/09/2023,false
+304,China,China,02/18/2023,04/06/2023,true
+305,Poland,Russia,09/15/2023,03/17/2023,false
+306,Malta,China,11/12/2023,09/28/2023,false
+307,Mexico,China,07/20/2023,10/20/2023,true
+308,Poland,Jordan,09/12/2023,07/01/2023,true
+309,Philippines,Portugal,09/08/2023,03/28/2023,false
+310,Argentina,United States,04/30/2023,07/18/2023,false
+311,Croatia,China,04/27/2023,10/28/2023,false
+312,Japan,Palestinian Territory,11/10/2023,10/17/2023,true
+313,China,Indonesia,12/23/2022,10/19/2023,true
+314,China,Indonesia,01/04/2023,09/02/2023,true
+315,Sweden,China,07/02/2023,05/23/2023,true
+316,Iran,Belarus,02/27/2023,10/29/2023,false
+317,Brazil,Canada,09/02/2023,03/20/2023,true
+318,China,Russia,12/14/2022,12/22/2022,true
+319,Tunisia,Ukraine,06/04/2023,05/13/2023,true
+320,Armenia,China,12/11/2022,05/16/2023,false
+321,Tanzania,Greece,07/04/2023,01/03/2023,false
+322,New Zealand,Indonesia,10/25/2023,04/01/2023,true
+323,China,France,08/27/2023,04/05/2023,true
+324,France,New Zealand,07/08/2023,08/26/2023,false
+325,Russia,Ukraine,03/01/2023,05/03/2023,true
+326,Indonesia,China,09/15/2023,09/01/2023,true
+327,United States,Bangladesh,07/19/2023,08/28/2023,true
+328,Mexico,China,10/19/2023,03/02/2023,true
+329,China,Japan,05/27/2023,11/02/2023,false
+330,Russia,Yemen,10/28/2023,10/01/2023,false
+331,Argentina,Honduras,10/28/2023,04/23/2023,true
+332,Indonesia,Indonesia,04/27/2023,08/20/2023,false
+333,France,Greece,11/24/2022,09/04/2023,true
+334,Sweden,Brazil,06/22/2023,06/20/2023,false
+335,Sweden,Poland,01/08/2023,07/15/2023,false
+336,Colombia,Philippines,09/10/2023,12/10/2022,false
+337,China,Ireland,12/08/2022,03/31/2023,true
+338,Sweden,Philippines,02/13/2023,03/01/2023,false
+339,Saint Kitts and Nevis,Indonesia,07/27/2023,11/25/2022,true
+340,Canada,Somalia,11/19/2023,01/19/2023,false
+341,Poland,China,10/31/2023,10/28/2023,true
+342,France,Argentina,06/05/2023,06/27/2023,true
+343,China,Philippines,09/07/2023,07/20/2023,true
+344,China,China,04/11/2023,05/31/2023,true
+345,Cameroon,Ukraine,09/25/2023,03/10/2023,true
+346,Macedonia,Peru,03/10/2023,02/08/2023,false
+347,Ireland,Czech Republic,02/05/2023,03/24/2023,true
+348,Philippines,China,11/27/2022,12/03/2022,false
+349,North Korea,Russia,06/27/2023,07/11/2023,false
+350,Iran,Georgia,06/15/2023,03/31/2023,true
+351,Sweden,Guatemala,04/04/2023,11/22/2022,false
+352,Armenia,Vietnam,10/14/2023,11/13/2023,false
+353,Macedonia,United Kingdom,06/17/2023,07/26/2023,false
+354,Ukraine,Canada,10/31/2023,10/02/2023,true
+355,Mexico,China,09/26/2023,01/05/2023,false
+356,Belarus,Bahamas,07/09/2023,07/09/2023,false
+357,China,Japan,09/19/2023,06/12/2023,true
+358,Lithuania,France,12/29/2022,10/22/2023,true
+359,China,China,09/12/2023,03/31/2023,false
+360,China,China,08/26/2023,01/01/2023,true
+361,China,Belarus,02/27/2023,05/13/2023,false
+362,Tunisia,Finland,04/01/2023,04/24/2023,true
+363,Russia,Afghanistan,06/07/2023,08/23/2023,true
+364,Indonesia,Russia,05/15/2023,02/13/2023,false
+365,China,South Africa,10/19/2023,05/02/2023,false
+366,Switzerland,Philippines,03/07/2023,12/08/2022,true
+367,Micronesia,China,09/20/2023,10/25/2023,false
+368,Indonesia,China,12/19/2022,09/30/2023,true
+369,Poland,Indonesia,12/28/2022,07/19/2023,false
+370,South Africa,Brazil,10/10/2023,05/27/2023,true
+371,Philippines,China,02/06/2023,09/27/2023,true
+372,Brazil,Philippines,08/24/2023,10/31/2023,true
+373,Yemen,Spain,04/04/2023,11/20/2022,false
+374,Russia,Poland,08/14/2023,06/04/2023,false
+375,Dominican Republic,Ukraine,05/23/2023,01/28/2023,false
+376,Canada,Morocco,06/30/2023,08/23/2023,true
+377,Norway,Azerbaijan,02/12/2023,09/13/2023,false
+378,Kosovo,France,03/04/2023,07/18/2023,false
+379,Brazil,Indonesia,12/12/2022,02/04/2023,false
+380,Croatia,Honduras,10/19/2023,10/16/2023,true
+381,Japan,Czech Republic,03/26/2023,04/08/2023,true
+382,Indonesia,Colombia,11/22/2022,03/25/2023,false
+383,Portugal,Albania,11/29/2022,10/10/2023,false
+384,Philippines,Argentina,05/04/2023,05/19/2023,false
+385,Sweden,Finland,06/11/2023,11/21/2022,false
+386,China,China,01/09/2023,08/13/2023,true
+387,Japan,Afghanistan,11/14/2023,01/01/2023,false
+388,China,Sweden,01/21/2023,01/20/2023,false
+389,Indonesia,Zimbabwe,06/05/2023,08/02/2023,false
+390,Indonesia,Latvia,08/01/2023,04/06/2023,true
+391,China,China,07/05/2023,04/28/2023,false
+392,Greece,Poland,10/30/2023,03/07/2023,true
+393,Germany,China,05/27/2023,07/29/2023,true
+394,China,France,10/10/2023,09/30/2023,true
+395,China,South Africa,09/26/2023,05/26/2023,false
+396,Thailand,China,07/06/2023,03/01/2023,true
+397,Brazil,Angola,12/20/2022,12/10/2022,false
+398,Norway,Poland,09/14/2023,10/06/2023,true
+399,Poland,Argentina,03/28/2023,07/02/2023,false
+400,Peru,Indonesia,03/21/2023,12/21/2022,false
+401,Indonesia,Malaysia,08/08/2023,07/29/2023,true
+402,Philippines,Cyprus,09/04/2023,01/24/2023,false
+403,Japan,Philippines,05/20/2023,10/03/2023,true
+404,Comoros,Indonesia,01/02/2023,11/15/2023,true
+405,Sweden,Norway,07/28/2023,12/21/2022,false
+406,Philippines,Argentina,07/01/2023,11/06/2023,true
+407,France,Ukraine,03/21/2023,02/22/2023,true
+408,Czech Republic,Brazil,08/06/2023,03/01/2023,false
+409,Greece,Dominican Republic,09/14/2023,02/17/2023,false
+410,China,China,10/24/2023,09/07/2023,false
+411,Brazil,China,12/13/2022,01/12/2023,false
+412,China,Ukraine,11/18/2023,08/14/2023,true
+413,Portugal,Mauritania,12/05/2022,11/22/2022,true
+414,Peru,China,10/17/2023,04/04/2023,false
+415,China,United States,07/21/2023,05/17/2023,true
+416,China,Somalia,06/06/2023,07/29/2023,true
+417,Indonesia,Russia,01/22/2023,06/04/2023,true
+418,China,Argentina,08/20/2023,05/19/2023,true
+419,New Zealand,China,05/07/2023,06/23/2023,true
+420,China,Ukraine,04/28/2023,12/01/2022,true
+421,Indonesia,Portugal,05/16/2023,02/11/2023,true
+422,Argentina,Philippines,08/24/2023,11/20/2022,false
+423,Czech Republic,Russia,04/26/2023,08/24/2023,false
+424,China,Indonesia,09/23/2023,12/17/2022,true
+425,China,Indonesia,12/05/2022,03/12/2023,true
+426,China,Indonesia,04/12/2023,07/15/2023,true
+427,China,Japan,07/08/2023,12/12/2022,false
+428,Indonesia,Indonesia,02/09/2023,09/02/2023,true
+429,Indonesia,China,10/29/2023,08/03/2023,true
+430,Philippines,Afghanistan,07/23/2023,09/26/2023,true
+431,Portugal,Sweden,05/03/2023,01/12/2023,true
+432,China,Ireland,01/29/2023,05/10/2023,false
+433,United States,Croatia,07/15/2023,01/05/2023,false
+434,Israel,Argentina,01/24/2023,10/30/2023,false
+435,Japan,China,05/14/2023,03/12/2023,true
+436,Sweden,Venezuela,12/19/2022,03/17/2023,false
+437,Colombia,China,04/06/2023,11/05/2023,false
+438,Brazil,Guatemala,03/19/2023,07/16/2023,false
+439,France,Armenia,08/17/2023,07/24/2023,false
+440,Russia,Vietnam,06/07/2023,03/19/2023,true
+441,France,Russia,01/07/2023,01/11/2023,false
+442,Sweden,Colombia,11/02/2023,09/22/2023,false
+443,Indonesia,China,05/29/2023,03/14/2023,false
+444,Finland,Indonesia,04/29/2023,01/12/2023,false
+445,China,Bahamas,02/21/2023,02/26/2023,true
+446,Palestinian Territory,Guinea,03/16/2023,11/20/2023,false
+447,Poland,China,05/14/2023,02/25/2023,true
+448,China,Serbia,09/14/2023,09/08/2023,true
+449,China,Nigeria,06/28/2023,03/20/2023,false
+450,Indonesia,Russia,05/02/2023,04/01/2023,true
+451,China,China,07/08/2023,07/02/2023,false
+452,Philippines,Madagascar,06/22/2023,01/08/2023,false
+453,Micronesia,Norway,06/07/2023,09/13/2023,false
+454,Kosovo,Philippines,05/08/2023,06/20/2023,false
+455,United States,Serbia,04/06/2023,01/16/2023,true
+456,Poland,United States,01/02/2023,11/02/2023,false
+457,Russia,Croatia,02/21/2023,01/04/2023,false
+458,Indonesia,Indonesia,02/25/2023,07/23/2023,true
+459,France,Indonesia,05/31/2023,09/26/2023,true
+460,Philippines,Russia,06/21/2023,09/17/2023,true
+461,China,Venezuela,07/30/2023,06/30/2023,false
+462,China,Panama,08/18/2023,03/17/2023,true
+463,Vietnam,China,10/30/2023,04/12/2023,true
+464,Brazil,Philippines,02/01/2023,03/21/2023,false
+465,Portugal,Russia,10/28/2023,12/09/2022,false
+466,Russia,China,08/17/2023,09/27/2023,false
+467,Italy,Croatia,04/15/2023,08/28/2023,false
+468,Croatia,Venezuela,01/05/2023,04/11/2023,false
+469,Norway,China,07/14/2023,12/05/2022,false
+470,Russia,Finland,02/18/2023,11/21/2022,false
+471,Portugal,Indonesia,05/01/2023,05/05/2023,false
+472,Indonesia,Indonesia,05/28/2023,03/02/2023,false
+473,Sweden,Sweden,01/18/2023,12/25/2022,false
+474,Philippines,China,11/01/2023,08/05/2023,false
+475,Guam,Russia,06/29/2023,07/16/2023,true
+476,United States,Thailand,04/05/2023,11/02/2023,false
+477,Zimbabwe,China,12/06/2022,08/15/2023,false
+478,Czech Republic,Egypt,12/20/2022,08/21/2023,true
+479,Czech Republic,Indonesia,01/14/2023,06/01/2023,true
+480,Indonesia,Philippines,11/11/2023,03/27/2023,false
+481,Poland,Syria,08/07/2023,12/13/2022,true
+482,Colombia,Indonesia,09/21/2023,03/22/2023,true
+483,Greece,Tajikistan,03/04/2023,12/07/2022,false
+484,France,Sweden,12/09/2022,05/22/2023,false
+485,Peru,Indonesia,08/12/2023,10/14/2023,true
+486,China,France,11/19/2023,04/14/2023,true
+487,Estonia,Indonesia,10/21/2023,11/07/2023,true
+488,Antigua and Barbuda,China,05/15/2023,04/04/2023,false
+489,China,Malaysia,08/30/2023,06/20/2023,false
+490,Portugal,Nicaragua,06/21/2023,04/01/2023,true
+491,China,Argentina,12/21/2022,05/21/2023,false
+492,Philippines,Mexico,03/21/2023,12/12/2022,true
+493,Norway,China,07/07/2023,04/21/2023,true
+494,Peru,Tanzania,11/26/2022,03/22/2023,true
+495,China,Indonesia,10/30/2023,01/09/2023,true
+496,China,Indonesia,04/30/2023,01/07/2023,false
+497,China,Sweden,01/05/2023,08/09/2023,false
+498,Poland,Netherlands,02/08/2023,11/17/2023,true
+499,Philippines,Philippines,05/26/2023,04/09/2023,false
+500,United States,China,12/03/2022,06/26/2023,true
+501,China,China,05/05/2023,02/21/2023,false
+502,China,Sweden,10/21/2023,06/25/2023,false
+503,Japan,Brazil,05/28/2023,02/19/2023,true
+504,Netherlands,China,06/23/2023,12/26/2022,false
+505,United States,China,11/14/2023,11/13/2023,false
+506,Greece,Indonesia,03/19/2023,11/15/2023,true
+507,Syria,Vietnam,05/20/2023,07/14/2023,false
+508,China,Indonesia,01/28/2023,04/02/2023,false
+509,Cyprus,Poland,07/03/2023,09/18/2023,false
+510,Russia,Russia,08/24/2023,04/19/2023,false
+511,Croatia,Serbia,08/21/2023,08/21/2023,true
+512,Sweden,El Salvador,03/13/2023,08/17/2023,false
+513,Niger,Japan,09/19/2023,04/16/2023,false
+514,Philippines,Indonesia,06/11/2023,01/09/2023,false
+515,Peru,China,07/01/2023,11/25/2022,false
+516,Indonesia,Russia,08/09/2023,05/23/2023,false
+517,Indonesia,New Caledonia,02/28/2023,01/30/2023,false
+518,Poland,Sweden,12/28/2022,12/28/2022,false
+519,Poland,Indonesia,12/03/2022,02/15/2023,false
+520,Nigeria,Libya,08/02/2023,10/02/2023,true
+521,Mongolia,Myanmar,07/15/2023,03/03/2023,true
+522,Portugal,Indonesia,02/11/2023,10/31/2023,false
+523,Brazil,United States,10/26/2023,09/04/2023,true
+524,Philippines,Colombia,08/30/2023,07/06/2023,true
+525,France,Russia,10/30/2023,10/25/2023,true
+526,China,South Africa,05/24/2023,11/08/2023,false
+527,Russia,China,11/10/2023,03/28/2023,false
+528,China,China,03/30/2023,02/23/2023,true
+529,Nigeria,China,05/05/2023,07/20/2023,false
+530,Kosovo,China,01/09/2023,03/14/2023,true
+531,Russia,Indonesia,08/21/2023,01/03/2023,true
+532,France,China,05/17/2023,03/05/2023,false
+533,Russia,Philippines,02/23/2023,01/23/2023,true
+534,China,United States,06/28/2023,12/06/2022,false
+535,Nicaragua,Honduras,07/14/2023,02/03/2023,true
+536,Philippines,Colombia,04/09/2023,03/02/2023,true
+537,China,Canada,12/19/2022,04/19/2023,false
+538,Poland,Czech Republic,01/24/2023,02/13/2023,true
+539,Kazakhstan,China,01/28/2023,03/14/2023,true
+540,Indonesia,Sweden,09/24/2023,06/24/2023,false
+541,Czech Republic,Portugal,02/27/2023,07/24/2023,false
+542,Iran,Poland,09/21/2023,11/25/2022,true
+543,Bahrain,Azerbaijan,04/24/2023,06/02/2023,false
+544,Indonesia,China,05/21/2023,08/12/2023,true
+545,Poland,Russia,03/17/2023,06/13/2023,true
+546,Poland,Myanmar,06/25/2023,07/29/2023,true
+547,China,China,09/19/2023,04/10/2023,false
+548,France,Cambodia,05/27/2023,11/09/2023,true
+549,Greece,China,07/28/2023,01/18/2023,false
+550,Poland,Indonesia,02/21/2023,03/08/2023,false
+551,Guatemala,Bolivia,04/27/2023,12/30/2022,true
+552,Indonesia,Peru,12/18/2022,01/20/2023,false
+553,Guatemala,China,01/02/2023,04/22/2023,false
+554,Serbia,Malawi,02/16/2023,11/20/2023,true
+555,China,China,02/16/2023,07/01/2023,false
+556,Brazil,Honduras,11/16/2023,12/08/2022,true
+557,Nepal,China,11/14/2023,02/09/2023,false
+558,Indonesia,Portugal,10/09/2023,09/11/2023,true
+559,Brazil,Russia,07/27/2023,03/23/2023,true
+560,China,Micronesia,05/15/2023,11/01/2023,false
+561,Japan,Netherlands,12/14/2022,12/02/2022,false
+562,El Salvador,Panama,06/18/2023,02/27/2023,true
+563,Portugal,Serbia,03/03/2023,11/14/2023,false
+564,Honduras,China,03/06/2023,12/12/2022,true
+565,Russia,Colombia,04/23/2023,07/18/2023,false
+566,Sweden,Zimbabwe,12/10/2022,01/09/2023,true
+567,Poland,Dominican Republic,12/24/2022,03/29/2023,false
+568,China,Portugal,12/04/2022,12/27/2022,false
+569,China,Japan,10/29/2023,05/11/2023,false
+570,China,Indonesia,09/06/2023,02/19/2023,true
+571,Indonesia,Colombia,08/15/2023,07/07/2023,false
+572,Ukraine,Russia,08/23/2023,06/29/2023,true
+573,Latvia,Brazil,12/09/2022,09/21/2023,true
+574,Portugal,Philippines,02/07/2023,01/23/2023,true
+575,China,Indonesia,01/03/2023,02/09/2023,true
+576,Russia,Indonesia,09/05/2023,06/25/2023,true
+577,Indonesia,Argentina,12/04/2022,06/03/2023,false
+578,Honduras,Brazil,05/27/2023,04/04/2023,false
+579,Norway,China,07/15/2023,03/05/2023,true
+580,Russia,Egypt,01/22/2023,11/18/2023,true
+581,Netherlands,China,05/18/2023,03/15/2023,false
+582,Brazil,Saudi Arabia,06/25/2023,10/16/2023,true
+583,Chile,China,11/24/2022,10/08/2023,true
+584,Brazil,China,12/12/2022,03/05/2023,true
+585,China,Philippines,11/27/2022,11/11/2023,false
+586,Russia,Indonesia,07/16/2023,11/03/2023,true
+587,Indonesia,Indonesia,04/22/2023,07/27/2023,true
+588,France,Czech Republic,02/21/2023,03/21/2023,false
+589,Slovenia,United States,08/10/2023,07/23/2023,false
+590,China,Kenya,10/04/2023,10/24/2023,true
+591,Philippines,France,11/27/2022,07/04/2023,false
+592,Mexico,Greece,11/28/2022,06/24/2023,false
+593,Yemen,Sweden,05/06/2023,02/27/2023,true
+594,France,Israel,06/15/2023,11/01/2023,false
+595,Ukraine,Afghanistan,10/23/2023,03/06/2023,true
+596,Russia,Russia,12/14/2022,02/22/2023,false
+597,Sweden,Faroe Islands,03/08/2023,06/21/2023,false
+598,Russia,Democratic Republic of the Congo,07/26/2023,11/21/2022,false
+599,Poland,Russia,07/03/2023,12/24/2022,true
+600,Indonesia,China,10/12/2023,01/19/2023,false
+601,Portugal,Brazil,11/08/2023,09/23/2023,false
+602,Peru,China,10/12/2023,03/20/2023,true
+603,Finland,Ukraine,08/14/2023,07/18/2023,false
+604,Germany,Marshall Islands,05/02/2023,02/27/2023,true
+605,China,French Polynesia,02/24/2023,06/04/2023,true
+606,Sweden,China,12/03/2022,10/03/2023,true
+607,Tajikistan,Sweden,11/02/2023,12/19/2022,true
+608,Russia,Russia,03/13/2023,07/29/2023,true
+609,China,Philippines,01/21/2023,09/26/2023,true
+610,Afghanistan,Russia,08/13/2023,05/25/2023,true
+611,Myanmar,Philippines,11/23/2022,03/29/2023,true
+612,Russia,China,10/14/2023,01/12/2023,false
+613,Germany,Brazil,01/11/2023,02/28/2023,false
+614,Sweden,United Kingdom,08/23/2023,04/27/2023,true
+615,China,Philippines,07/23/2023,11/15/2023,false
+616,Honduras,Brazil,09/23/2023,07/20/2023,false
+617,Syria,Brazil,10/14/2023,09/11/2023,true
+618,Indonesia,Rwanda,03/12/2023,05/06/2023,false
+619,Argentina,France,08/27/2023,05/09/2023,false
+620,China,France,11/19/2022,08/06/2023,true
+621,Indonesia,China,03/13/2023,06/07/2023,false
+622,Indonesia,China,06/04/2023,07/06/2023,true
+623,China,Colombia,05/21/2023,08/14/2023,true
+624,Canada,Philippines,10/30/2023,03/16/2023,false
+625,Brazil,China,09/12/2023,09/29/2023,true
+626,Indonesia,Indonesia,07/10/2023,08/14/2023,false
+627,France,China,12/04/2022,10/22/2023,true
+628,China,Argentina,08/01/2023,01/16/2023,false
+629,Russia,Brazil,04/15/2023,07/13/2023,true
+630,France,France,03/08/2023,06/28/2023,true
+631,Ukraine,Portugal,12/31/2022,05/11/2023,true
+632,Canada,Czech Republic,05/30/2023,11/25/2022,true
+633,Indonesia,Sudan,01/06/2023,09/29/2023,false
+634,Thailand,North Korea,02/03/2023,04/20/2023,true
+635,China,Indonesia,12/30/2022,04/10/2023,true
+636,United States,Sweden,05/11/2023,01/05/2023,false
+637,Russia,Indonesia,02/01/2023,09/20/2023,false
+638,Denmark,Indonesia,08/11/2023,12/11/2022,true
+639,Philippines,Uganda,11/11/2023,09/22/2023,true
+640,Indonesia,Philippines,06/29/2023,08/15/2023,true
+641,Bahrain,China,01/30/2023,02/12/2023,false
+642,Croatia,China,08/01/2023,03/05/2023,true
+643,China,Yemen,05/27/2023,05/01/2023,true
+644,Thailand,Brazil,02/18/2023,03/13/2023,true
+645,Mongolia,Indonesia,08/27/2023,04/18/2023,true
+646,Indonesia,Russia,11/27/2022,09/06/2023,true
+647,Indonesia,Albania,08/02/2023,07/01/2023,true
+648,China,Syria,05/06/2023,10/21/2023,false
+649,Thailand,Argentina,07/02/2023,08/04/2023,false
+650,China,Ghana,02/25/2023,12/01/2022,false
+651,United States,United States,11/10/2023,12/29/2022,false
+652,Indonesia,China,08/05/2023,02/08/2023,false
+653,Russia,Libya,07/08/2023,05/02/2023,false
+654,China,Poland,07/20/2023,01/12/2023,false
+655,Malta,Japan,03/18/2023,07/27/2023,true
+656,China,China,07/12/2023,08/30/2023,true
+657,Indonesia,Canada,10/09/2023,06/10/2023,true
+658,Morocco,Panama,01/11/2023,03/18/2023,true
+659,China,Netherlands,05/10/2023,01/02/2023,false
+660,Malaysia,Indonesia,09/06/2023,01/14/2023,true
+661,Czech Republic,Sweden,08/20/2023,12/22/2022,false
+662,Pakistan,Zambia,03/02/2023,01/25/2023,true
+663,Belarus,Thailand,11/01/2023,10/29/2023,false
+664,Russia,Russia,10/01/2023,07/08/2023,false
+665,Portugal,Sweden,04/27/2023,04/17/2023,false
+666,Jordan,Indonesia,11/26/2022,01/18/2023,false
+667,Sweden,Bulgaria,02/20/2023,09/18/2023,false
+668,United States,Sweden,09/24/2023,06/26/2023,true
+669,China,Portugal,12/26/2022,08/09/2023,true
+670,Philippines,Czech Republic,04/04/2023,09/16/2023,false
+671,Kazakhstan,China,03/11/2023,03/10/2023,true
+672,Ukraine,China,05/26/2023,10/27/2023,true
+673,Syria,Canada,10/21/2023,06/07/2023,true
+674,Philippines,China,06/03/2023,11/11/2023,false
+675,Brazil,Poland,08/19/2023,10/26/2023,false
+676,Russia,Indonesia,02/17/2023,10/19/2023,false
+677,Kenya,Poland,07/14/2023,09/06/2023,false
+678,Pakistan,Russia,03/18/2023,12/29/2022,false
+679,Portugal,China,06/10/2023,08/10/2023,false
+680,France,Iran,04/08/2023,03/13/2023,true
+681,Czech Republic,Canada,04/19/2023,03/15/2023,true
+682,China,China,05/15/2023,06/01/2023,true
+683,Colombia,Yemen,08/31/2023,12/15/2022,false
+684,Serbia,Peru,11/19/2022,04/29/2023,false
+685,China,Somalia,07/26/2023,07/31/2023,false
+686,Mexico,Portugal,03/24/2023,04/16/2023,false
+687,Brazil,Uganda,11/06/2023,03/11/2023,false
+688,Indonesia,Cuba,04/26/2023,05/17/2023,true
+689,France,Norway,03/24/2023,09/25/2023,true
+690,Nepal,Vietnam,08/16/2023,11/05/2023,false
+691,Russia,China,06/30/2023,08/14/2023,true
+692,Thailand,Japan,12/09/2022,01/11/2023,false
+693,Philippines,Portugal,04/27/2023,12/09/2022,false
+694,Estonia,Japan,03/22/2023,02/23/2023,true
+695,China,France,10/16/2023,06/02/2023,false
+696,Norway,China,09/24/2023,05/06/2023,false
+697,Tajikistan,Paraguay,05/01/2023,10/29/2023,false
+698,China,Iran,11/06/2023,12/15/2022,false
+699,China,Colombia,08/28/2023,08/02/2023,true
+700,Philippines,Czech Republic,05/13/2023,11/18/2023,false
+701,Cuba,Netherlands,02/04/2023,03/24/2023,true
+702,China,Russia,04/10/2023,03/16/2023,true
+703,Cyprus,China,01/11/2023,06/10/2023,false
+704,Argentina,Indonesia,03/13/2023,07/25/2023,false
+705,China,Indonesia,02/02/2023,07/22/2023,false
+706,Finland,China,03/19/2023,02/22/2023,true
+707,France,China,04/10/2023,02/15/2023,true
+708,Indonesia,Indonesia,02/01/2023,05/16/2023,true
+709,China,Indonesia,04/08/2023,03/06/2023,false
+710,Russia,Papua New Guinea,03/27/2023,02/17/2023,false
+711,Venezuela,Brazil,10/26/2023,07/13/2023,false
+712,Norway,Morocco,11/12/2023,05/11/2023,false
+713,Tanzania,Morocco,11/08/2023,01/29/2023,false
+714,Poland,Indonesia,10/24/2023,02/17/2023,false
+715,Paraguay,Brazil,04/24/2023,03/15/2023,false
+716,Tunisia,Argentina,03/23/2023,12/05/2022,false
+717,China,Philippines,09/02/2023,04/25/2023,false
+718,Indonesia,Netherlands,05/30/2023,07/11/2023,true
+719,Brazil,Portugal,07/31/2023,11/24/2022,true
+720,Iran,Portugal,05/21/2023,11/26/2022,true
+721,China,Burkina Faso,02/26/2023,03/19/2023,true
+722,Brazil,Somalia,01/31/2023,11/25/2022,true
+723,China,Ecuador,05/30/2023,03/25/2023,true
+724,China,Philippines,01/02/2023,08/16/2023,false
+725,Indonesia,Yemen,06/14/2023,03/20/2023,false
+726,China,China,12/05/2022,09/27/2023,false
+727,Vietnam,Indonesia,01/04/2023,08/24/2023,true
+728,Ukraine,Indonesia,10/19/2023,06/09/2023,false
+729,Ireland,China,09/15/2023,03/16/2023,true
+730,China,China,04/09/2023,11/13/2023,true
+731,China,Saudi Arabia,09/01/2023,10/05/2023,true
+732,China,Indonesia,12/01/2022,08/20/2023,true
+733,China,Ukraine,02/23/2023,02/25/2023,false
+734,Chad,China,06/17/2023,03/05/2023,false
+735,Philippines,Mexico,08/14/2023,11/24/2022,true
+736,China,Nigeria,10/04/2023,11/21/2022,true
+737,Russia,Portugal,04/29/2023,02/08/2023,true
+738,France,China,05/22/2023,01/15/2023,false
+739,Indonesia,Poland,08/13/2023,09/20/2023,false
+740,China,Philippines,08/22/2023,05/14/2023,false
+741,Mauritania,Colombia,06/15/2023,12/10/2022,true
+742,Greenland,Haiti,04/17/2023,07/19/2023,true
+743,China,Kosovo,02/20/2023,12/29/2022,false
+744,Canada,Philippines,04/03/2023,03/07/2023,true
+745,Indonesia,Sweden,05/22/2023,07/21/2023,true
+746,China,Gambia,07/22/2023,08/27/2023,true
+747,Indonesia,Canada,01/23/2023,04/22/2023,false
+748,Switzerland,Chad,12/19/2022,09/26/2023,true
+749,Guatemala,Poland,03/03/2023,08/26/2023,false
+750,China,United States,10/16/2023,09/18/2023,false
+751,Egypt,Brazil,06/22/2023,12/03/2022,true
+752,Russia,Brazil,06/15/2023,06/11/2023,true
+753,Palestinian Territory,China,09/10/2023,05/07/2023,true
+754,China,Russia,11/19/2023,01/13/2023,false
+755,Indonesia,United States,12/27/2022,12/20/2022,true
+756,China,Japan,04/06/2023,07/04/2023,true
+757,China,Sweden,06/20/2023,03/21/2023,true
+758,Bangladesh,Bangladesh,10/07/2023,01/24/2023,true
+759,Indonesia,Mexico,09/16/2023,07/10/2023,false
+760,France,Democratic Republic of the Congo,07/19/2023,05/27/2023,true
+761,Portugal,Indonesia,04/21/2023,01/25/2023,true
+762,Greece,New Caledonia,03/29/2023,07/26/2023,false
+763,Czech Republic,Philippines,02/23/2023,09/02/2023,false
+764,China,Indonesia,10/08/2023,07/06/2023,true
+765,Zimbabwe,Czech Republic,04/27/2023,04/24/2023,false
+766,China,China,10/16/2023,03/09/2023,true
+767,Poland,United States,07/24/2023,11/20/2022,false
+768,Philippines,Czech Republic,09/22/2023,07/20/2023,true
+769,Czech Republic,Poland,09/02/2023,12/23/2022,false
+770,Uzbekistan,Japan,06/20/2023,01/13/2023,true
+771,Mongolia,United States,10/21/2023,05/18/2023,false
+772,Canada,China,11/21/2022,04/20/2023,true
+773,China,Indonesia,06/06/2023,07/09/2023,true
+774,China,Croatia,06/20/2023,07/06/2023,false
+775,Finland,China,02/22/2023,11/14/2023,true
+776,China,Indonesia,10/25/2023,09/12/2023,false
+777,France,Serbia,09/23/2023,12/24/2022,false
+778,Poland,Japan,04/30/2023,03/13/2023,false
+779,Brazil,Ireland,07/09/2023,01/09/2023,true
+780,Portugal,Argentina,09/20/2023,09/17/2023,false
+781,Macedonia,Albania,04/13/2023,07/06/2023,false
+782,Russia,China,03/07/2023,04/24/2023,true
+783,Kenya,Poland,12/23/2022,06/14/2023,true
+784,Japan,Greece,05/27/2023,05/03/2023,false
+785,Colombia,China,10/03/2023,02/26/2023,false
+786,China,Ukraine,06/30/2023,07/26/2023,false
+787,Greece,Mexico,08/02/2023,01/17/2023,true
+788,China,China,04/03/2023,10/19/2023,true
+789,France,Madagascar,12/23/2022,01/29/2023,true
+790,Indonesia,Vietnam,03/12/2023,09/06/2023,false
+791,Canada,Mauritania,04/23/2023,05/29/2023,false
+792,Belarus,Indonesia,03/01/2023,12/20/2022,true
+793,Spain,United States,01/27/2023,10/22/2023,false
+794,China,Greece,03/03/2023,02/17/2023,true
+795,Indonesia,Honduras,05/26/2023,01/21/2023,true
+796,Philippines,Indonesia,10/06/2023,09/14/2023,false
+797,Bangladesh,United States,01/29/2023,02/16/2023,true
+798,Sweden,Indonesia,08/10/2023,12/09/2022,false
+799,Sweden,Canada,04/24/2023,02/14/2023,true
+800,Brazil,Portugal,07/31/2023,07/08/2023,true
+801,Poland,Zambia,04/13/2023,10/14/2023,false
+802,Thailand,China,06/12/2023,05/21/2023,true
+803,Thailand,Mexico,02/19/2023,05/26/2023,false
+804,Vietnam,China,12/18/2022,11/10/2023,false
+805,China,Poland,11/18/2023,01/16/2023,false
+806,Papua New Guinea,Philippines,07/16/2023,11/03/2023,false
+807,Brazil,France,04/14/2023,04/29/2023,true
+808,Botswana,Indonesia,11/13/2023,06/12/2023,true
+809,Philippines,United States,06/30/2023,01/27/2023,false
+810,China,Colombia,07/04/2023,08/03/2023,true
+811,Poland,Peru,11/28/2022,03/04/2023,false
+812,Indonesia,Russia,08/11/2023,05/27/2023,true
+813,Indonesia,Iran,09/29/2023,09/16/2023,false
+814,China,Colombia,12/27/2022,05/12/2023,false
+815,China,Albania,04/05/2023,04/25/2023,false
+816,Indonesia,Portugal,03/04/2023,09/18/2023,true
+817,China,Argentina,12/13/2022,01/02/2023,true
+818,Afghanistan,Portugal,08/23/2023,08/17/2023,false
+819,Indonesia,Vietnam,04/26/2023,09/02/2023,false
+820,Colombia,Macedonia,11/24/2022,11/20/2023,true
+821,China,Nicaragua,11/09/2023,03/20/2023,false
+822,China,New Caledonia,12/22/2022,11/29/2022,true
+823,Indonesia,Greece,11/01/2023,07/18/2023,true
+824,Croatia,France,01/25/2023,01/05/2023,false
+825,Indonesia,Indonesia,05/24/2023,10/21/2023,false
+826,Ireland,Brazil,02/27/2023,03/18/2023,true
+827,Vietnam,Philippines,09/13/2023,12/25/2022,false
+828,Spain,Armenia,05/27/2023,10/14/2023,false
+829,United States,Philippines,12/23/2022,08/21/2023,false
+830,Afghanistan,Ukraine,08/28/2023,09/10/2023,false
+831,Russia,China,02/06/2023,03/06/2023,false
+832,Philippines,United States,12/05/2022,01/18/2023,true
+833,Indonesia,China,11/06/2023,06/27/2023,false
+834,Peru,Thailand,08/31/2023,07/22/2023,true
+835,Greece,China,11/22/2022,07/04/2023,false
+836,Philippines,Russia,11/22/2022,02/17/2023,true
+837,Philippines,China,07/11/2023,08/29/2023,false
+838,China,France,08/05/2023,07/31/2023,true
+839,Argentina,Vietnam,08/03/2023,05/10/2023,false
+840,China,Nigeria,03/08/2023,08/08/2023,true
+841,Malaysia,Philippines,01/22/2023,08/20/2023,true
+842,Poland,Poland,08/03/2023,12/31/2022,true
+843,Thailand,Turkmenistan,10/15/2023,10/20/2023,false
+844,China,Hong Kong,12/10/2022,12/20/2022,false
+845,Poland,Indonesia,12/11/2022,05/06/2023,false
+846,Germany,Russia,11/22/2022,10/22/2023,false
+847,Indonesia,Indonesia,11/20/2022,04/25/2023,false
+848,Indonesia,Iran,12/12/2022,02/03/2023,true
+849,Pakistan,Indonesia,09/05/2023,08/20/2023,false
+850,Philippines,Sri Lanka,03/07/2023,02/27/2023,true
+851,Serbia,China,10/31/2023,10/22/2023,false
+852,Portugal,France,12/11/2022,05/30/2023,false
+853,China,Ecuador,06/09/2023,05/01/2023,false
+854,Ukraine,Japan,01/02/2023,10/26/2023,true
+855,Czech Republic,Argentina,11/19/2023,10/11/2023,false
+856,China,Egypt,07/05/2023,06/22/2023,false
+857,China,Russia,08/26/2023,10/11/2023,false
+858,Cuba,China,04/02/2023,11/19/2023,false
+859,Peru,Indonesia,11/03/2023,04/30/2023,true
+860,Iraq,Japan,02/02/2023,06/30/2023,false
+861,France,China,05/01/2023,04/18/2023,true
+862,China,Peru,07/21/2023,03/24/2023,true
+863,Brazil,Sweden,06/09/2023,09/02/2023,true
+864,Thailand,Canada,04/23/2023,08/20/2023,false
+865,China,Indonesia,09/07/2023,10/01/2023,false
+866,France,Albania,04/25/2023,04/15/2023,false
+867,China,Indonesia,05/13/2023,05/19/2023,false
+868,Mexico,Philippines,10/09/2023,10/18/2023,true
+869,Indonesia,Namibia,01/24/2023,10/11/2023,false
+870,Indonesia,Indonesia,10/31/2023,05/03/2023,true
+871,Japan,Brazil,09/13/2023,06/11/2023,false
+872,Bosnia and Herzegovina,Portugal,12/31/2022,05/21/2023,true
+873,Greece,Colombia,09/28/2023,12/24/2022,true
+874,Brazil,Yemen,11/19/2023,05/30/2023,true
+875,Croatia,Mexico,03/28/2023,06/01/2023,false
+876,China,Portugal,02/09/2023,01/06/2023,true
+877,Norway,Russia,05/15/2023,07/20/2023,false
+878,Moldova,Ukraine,12/09/2022,10/30/2023,false
+879,China,Indonesia,03/29/2023,03/21/2023,true
+880,South Africa,Poland,03/14/2023,04/15/2023,true
+881,Brazil,Afghanistan,02/05/2023,02/16/2023,true
+882,China,Indonesia,08/09/2023,06/07/2023,true
+883,Philippines,United States,06/19/2023,08/06/2023,true
+884,Cyprus,China,09/12/2023,02/18/2023,false
+885,China,Greece,09/27/2023,08/06/2023,true
+886,Ukraine,China,11/20/2022,11/06/2023,true
+887,Japan,China,06/28/2023,04/12/2023,true
+888,Indonesia,Poland,02/26/2023,09/19/2023,false
+889,Philippines,Serbia,03/05/2023,12/15/2022,true
+890,Czech Republic,Russia,08/20/2023,10/05/2023,false
+891,Sweden,Tajikistan,10/06/2023,10/01/2023,false
+892,Russia,Japan,05/20/2023,04/03/2023,false
+893,Cyprus,China,04/01/2023,09/13/2023,false
+894,Indonesia,Indonesia,08/14/2023,03/21/2023,false
+895,Philippines,Philippines,10/03/2023,05/05/2023,false
+896,United States,Indonesia,07/03/2023,04/15/2023,true
+897,Portugal,Ukraine,12/11/2022,09/10/2023,false
+898,Indonesia,Portugal,12/16/2022,12/04/2022,false
+899,Kazakhstan,Portugal,06/17/2023,06/06/2023,true
+900,Greece,Portugal,09/26/2023,07/05/2023,true
+901,Indonesia,Peru,07/03/2023,09/25/2023,false
+902,Morocco,Finland,10/22/2023,11/28/2022,false
+903,China,China,11/18/2023,09/18/2023,true
+904,China,Norway,07/29/2023,04/28/2023,false
+905,South Africa,Myanmar,12/07/2022,09/04/2023,false
+906,Japan,Brazil,05/05/2023,03/06/2023,false
+907,China,Kyrgyzstan,03/31/2023,06/16/2023,true
+908,Vietnam,Philippines,11/15/2023,09/29/2023,false
+909,Russia,China,01/25/2023,02/09/2023,false
+910,Czech Republic,Chile,09/29/2023,01/29/2023,true
+911,Russia,France,07/29/2023,07/22/2023,false
+912,Comoros,China,03/07/2023,12/08/2022,false
+913,Philippines,Canada,05/05/2023,08/08/2023,false
+914,Honduras,United States,07/07/2023,07/09/2023,false
+915,Russia,Poland,04/23/2023,03/18/2023,true
+916,Azerbaijan,France,07/16/2023,01/06/2023,true
+917,Norway,Botswana,03/19/2023,06/30/2023,false
+918,China,Indonesia,07/17/2023,04/22/2023,false
+919,Philippines,China,11/19/2022,02/16/2023,false
+920,South Korea,Russia,12/06/2022,11/06/2023,false
+921,Netherlands,Bangladesh,12/01/2022,07/26/2023,false
+922,Indonesia,Philippines,04/05/2023,09/22/2023,false
+923,China,Brazil,06/30/2023,08/05/2023,true
+924,South Africa,Portugal,12/22/2022,09/12/2023,false
+925,China,Philippines,11/30/2022,08/16/2023,true
+926,Poland,Mongolia,05/11/2023,04/27/2023,true
+927,China,Czech Republic,09/28/2023,10/03/2023,true
+928,Jamaica,Brazil,07/16/2023,11/04/2023,true
+929,Indonesia,Uzbekistan,04/06/2023,06/09/2023,true
+930,Iran,Mauritius,02/16/2023,03/21/2023,true
+931,China,Indonesia,08/10/2023,01/19/2023,true
+932,France,France,09/07/2023,11/03/2023,false
+933,Sweden,Philippines,11/08/2023,04/02/2023,false
+934,Indonesia,Thailand,04/23/2023,04/23/2023,true
+935,Brazil,Brazil,09/24/2023,03/30/2023,true
+936,Indonesia,Russia,03/19/2023,03/24/2023,true
+937,Philippines,Indonesia,04/23/2023,06/03/2023,true
+938,Cuba,Japan,05/02/2023,02/28/2023,false
+939,Vietnam,China,01/01/2023,06/30/2023,false
+940,Czech Republic,South Africa,09/05/2023,05/31/2023,true
+941,Brazil,Indonesia,07/21/2023,12/06/2022,true
+942,Indonesia,Poland,02/09/2023,10/19/2023,false
+943,Palau,South Africa,03/04/2023,02/14/2023,true
+944,China,Philippines,02/19/2023,08/14/2023,false
+945,Albania,China,05/07/2023,07/05/2023,false
+946,Russia,Haiti,05/02/2023,09/01/2023,true
+947,China,Brazil,06/21/2023,05/30/2023,true
+948,Russia,Angola,04/14/2023,10/18/2023,true
+949,Indonesia,Argentina,05/01/2023,06/22/2023,true
+950,Philippines,Barbados,06/28/2023,09/22/2023,false
+951,Japan,Nigeria,07/18/2023,08/27/2023,false
+952,China,Peru,04/08/2023,07/29/2023,true
+953,China,Myanmar,08/23/2023,03/14/2023,false
+954,France,China,03/14/2023,08/02/2023,true
+955,New Zealand,China,12/29/2022,02/21/2023,false
+956,Indonesia,United States,04/25/2023,07/27/2023,false
+957,Nigeria,Vietnam,11/06/2023,07/12/2023,false
+958,Indonesia,Thailand,06/23/2023,06/06/2023,false
+959,China,United States,09/22/2023,04/09/2023,false
+960,Honduras,China,09/20/2023,09/24/2023,false
+961,China,Czech Republic,01/15/2023,06/27/2023,false
+962,China,Thailand,02/27/2023,11/23/2022,false
+963,China,China,09/02/2023,01/24/2023,false
+964,China,Poland,06/26/2023,02/04/2023,true
+965,Indonesia,Liberia,04/07/2023,11/15/2023,false
+966,Mongolia,Uzbekistan,07/17/2023,12/05/2022,false
+967,Jordan,China,10/11/2023,09/27/2023,false
+968,Sweden,Brazil,10/31/2023,02/07/2023,true
+969,Yemen,Thailand,11/12/2023,12/25/2022,true
+970,China,Morocco,08/15/2023,07/18/2023,false
+971,Indonesia,Ukraine,10/06/2023,06/14/2023,false
+972,China,Australia,04/05/2023,07/25/2023,true
+973,Greece,Azerbaijan,03/19/2023,05/10/2023,false
+974,China,Poland,12/24/2022,03/22/2023,true
+975,Iran,Australia,09/02/2023,12/03/2022,false
+976,Indonesia,Syria,12/10/2022,01/26/2023,true
+977,China,France,06/08/2023,04/04/2023,true
+978,Indonesia,Indonesia,05/30/2023,07/28/2023,true
+979,Mexico,Philippines,03/25/2023,11/20/2023,true
+980,China,China,05/03/2023,09/21/2023,false
+981,France,Russia,10/09/2023,07/19/2023,true
+982,France,Sweden,08/16/2023,07/03/2023,false
+983,Japan,China,01/27/2023,02/01/2023,true
+984,Finland,Portugal,08/27/2023,06/04/2023,true
+985,Russia,Peru,10/16/2023,11/20/2023,false
+986,China,Indonesia,03/04/2023,06/06/2023,false
+987,Philippines,Indonesia,06/21/2023,07/18/2023,true
+988,Philippines,Czech Republic,07/11/2023,05/17/2023,true
+989,Martinique,Colombia,10/03/2023,02/08/2023,false
+990,Iran,Philippines,08/17/2023,10/09/2023,true
+991,China,Vietnam,06/29/2023,09/16/2023,false
+992,United States,Indonesia,12/21/2022,07/12/2023,false
+993,Portugal,South Korea,01/31/2023,12/25/2022,true
+994,Philippines,Thailand,09/28/2023,08/28/2023,false
+995,Nigeria,Brazil,10/21/2023,10/15/2023,true
+996,Syria,United States,09/06/2023,04/05/2023,true
+997,Russia,China,03/03/2023,05/22/2023,false
+998,Sweden,Greece,07/01/2023,03/24/2023,true
+999,China,China,03/21/2023,05/31/2023,true
+1000,Philippines,Russia,04/29/2023,09/30/2023,false
+1001,Russia,Belgium,02/02/2023,03/02/2023,false
+1002,France,China,02/16/2023,07/26/2023,false
+1003,France,China,02/16/2023,07/26/2023,false
+1004,Russia,Spain,23/11/23,23/11/23,false
+1005,Russia,China,05/25/2023,05/25/2023,false
